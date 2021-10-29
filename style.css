@@ -1,0 +1,29 @@
+.menu-left{
+    margin-top: 4px;
+    margin-left: 12px;
+    width: 20%;
+}
+.menu-left .content-left h5{
+    background: rgb(12, 139, 12);
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+}
+.menu-left .content-left ul{
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+}
+.menu-left .content-left ul li {
+    list-style: none;
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+.menu-left .content-left ul li a{
+    text-decoration: none;
+    color: #333;
+}
+.menu-left .content-left ul li:hover{
+    background: rgb(141, 201, 141);
+    color: #FFF;
+}
